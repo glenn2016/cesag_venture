@@ -1,0 +1,7 @@
+export { default as CryptoTicker } from './CryptoTicker'
+export { default as Hero } from './Hero'
+export { default as Avantages } from './Avantages'
+export { default as About } from './About'
+export { default as NewsSection } from './NewsSection'
+export { default as FormationsPreview } from './FormationsPreview'
+export { default as CTASection } from './CTASection'
